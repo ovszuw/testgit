@@ -1,0 +1,4 @@
+vim mode
+i try vim first time
+the second line
+third line
